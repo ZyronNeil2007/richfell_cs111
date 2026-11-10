@@ -1,0 +1,71 @@
+Folder PATH listing
+Volume serial number is 7471-2976
+C:.
+|   childhood_memories.html
+|   family_relatives.html
+|   index.html
+|   joke_time.html
+|   me_and_my_love.html
+|   my_favorite_food.html
+|   my_favorite_movie.html
+|   my_friends.html
+|   my_song.html
+|   project-structure.txt
+|   style.css
+|   
++---BG
++---childhood_pics
+|       child_1.jpg
+|       child_2.jpg
+|       child_3.jpg
+|       child_4.jpg
+|       child_5.jpg
+|       
++---Joke Time
+|       jokes.md
+|       
++---Me & My Love
+|       79d9dc51-a41d-449b-9b2f-9cd889bb32d4.jpg
+|       91c8a3f5-3b95-4ca4-bb38-733493c15926.jpg
+|       a99015ec-6c43-484e-8ce1-04e88547ab65.jpg
+|       d7b26943-5584-489d-9762-70560a120d05.jpg
+|       f310d674-e816-46b5-805a-f5708522f536.jpg
+|       
++---My Family & Relatives
+|       0bc5a2af-f5c9-42dd-830e-1819c9814ffc.jpg
+|       3cfb9428-1a1a-4677-952c-d6099ebf4b91.jpg
+|       63ff2986-bcf5-4fc3-bdb9-833b16fd0f35.jpg
+|       ba464db9-d232-49eb-b6f1-dbb3e9e0d10a.jpg
+|       d0d8166b-b210-419b-a4fb-eb615368b6b4.jpg
+|       
++---My favorite Food
+|       5945fdab-6955-4b78-8869-dce0d8e3f83d.jpg
+|       73da54f6-1b57-4a76-9069-419a2d412baf.jpg
+|       841d58a9-3e5d-4834-8185-ab67d4d92a9b.jpg
+|       9790b64f-8791-4775-95a3-cdc687666648.jpg
+|       f2a092a4-14db-4b39-ac95-5dafe2160233.jpg
+|       
++---My favorite Movie
+|       at_dahil.mahal.na.mahal.kita.mp4
+|       cars.mp4
+|       inside_out.mp4
+|       malificent.mp4
+|       meet_greet_and_bye.mp4
+|       
++---My Friends
+|       86515ce4-104e-40fa-9bfa-5544e62009d2.jpg
+|       93118841-4bbd-4ee0-ac3c-6c6a8c09beae.jpg
+|       b2760a05-a883-465a-9908-17e68a36b532.jpg
+|       d3c0ab88-b680-4eb8-b355-5c333104422d.jpg
+|       
++---My Song
+|   \---mp3
+|           Favorite Girl.mp3
+|           Ginintuang Tanawin.mp3
+|           Nobody Gets Me.mp3
+|           With A Smile (1).mp3
+|           With A Smile.mp3
+|           
+\---New folder
+        BG.jpg
+        
